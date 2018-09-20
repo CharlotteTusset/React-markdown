@@ -1,0 +1,1 @@
+export const sampleText = '# Title\n## Sub-title';
